@@ -1,7 +1,4 @@
 #Importing Natural Language Toolkit
-#BRIAN MAIRURA
-#CIT-227-044/2017
-print("CIT-227-044/2017")
 import string
 import nltk
 
